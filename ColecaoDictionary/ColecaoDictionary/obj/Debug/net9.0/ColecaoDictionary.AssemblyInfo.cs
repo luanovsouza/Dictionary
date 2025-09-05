@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ColecaoDictionary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87654428cc7e3616f6ecf07f7584d0ef6ab36099")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e418569d58a54cac189c3e1b232d047d174d1f76")]
 [assembly: System.Reflection.AssemblyProductAttribute("ColecaoDictionary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ColecaoDictionary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
